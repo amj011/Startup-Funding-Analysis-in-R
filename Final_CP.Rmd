@@ -1,6 +1,5 @@
 ---
 title: "R Notebook"
-Author: AI & DS -A Batch3 Group2
 output:
   word_document: default
   html_document:
